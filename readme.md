@@ -1,1 +1,1 @@
-# BackboneJS Sample Template Application with Backbone.js and Twitter Bootstrap
+# Sample Template Application with Backbone.js and Twitter Bootstrap
